@@ -1,0 +1,2 @@
+import { FeaturePage } from "@/components/lifepilot-app"
+export default function FocusPage() { return <FeaturePage title="Deep work" eyebrow="ONE THING AT A TIME" description="Protect a little time for the work that matters. A 60-minute daily focus goal is here when you’re ready." icon="focus" bullets={["60-minute daily agency goal", "Focus session history", "Distraction-light session timer"]}/> }
